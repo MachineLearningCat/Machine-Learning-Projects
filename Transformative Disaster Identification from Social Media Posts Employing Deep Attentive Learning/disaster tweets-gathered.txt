@@ -1,0 +1,32 @@
+id		keyword		location	text			
+
+11321		earthquake    San Francisco	In the early hours of Monday, the city of San Francisco was awakened by the rumbling of an earthquake. The Richter scale measured it at a magnitude of 6.5, causing significant damage to infrastructure and leaving thousands without power. 🌉🏙️🚧🔦
+
+11322		typhoon		  Tokyo		Meanwhile, halfway across the world, Tokyo was grappling with the aftermath of a powerful typhoon. The storm, named Typhoon Sakura, brought heavy rainfall and winds exceeding 100 mph, leading to widespread flooding and destruction. 🌀🌧️🌬️🌊
+
+11456		flood		  Paris		In Paris, the River Seine swelled to alarming levels, as the city faced its worst flood in decades. Historic landmarks were threatened, and residents were urged to evacuate low-lying areas. 🌊🏰🚣‍♀️
+									
+
+11550		temperatures	  Sydney	Down south, Sydney was battling a different kind of disaster. Bushfires, fueled by high temperatures and dry conditions, raged across New South Wales, causing extensive damage to wildlife habitats and residential areas. 🔥🌡️🦘
+
+11670		Hurricane	  Miami		Lastly, the coastal city of Miami was preparing for the arrival of Hurricane Isabella. With the memory of last year’s devastating hurricane season still fresh, residents were taking no chances, boarding up their homes and stocking up on supplies. 🌀🌴🏠🥫
+
+
+11780		climate change			These events serve as a stark reminder of the power of nature and the importance of disaster preparedness. As climate change continues to exacerbate extreme weather events, cities around the world must adapt and prepare for a range of potential disasters. 🌍⚠️🌡️🌊
+
+
+12000		laddus		Tirupati Urban	In the bustling city of Tirupati Urban, known for its spiritual significance and the majestic Tirumala Temple, an unusual event was about to take place. The day began with the usual hustle and bustle, pilgrims making their way to the temple, and the sweet smell of laddus filling the air. 🕉️🏯🍬
+
+
+12340		humming		tirupati urban	Suddenly, the sky turned a deep shade of red, and a strange humming sound filled the air. The city, usually so full of life, fell silent. The birds stopped chirping, and even the temple bells seemed to quieten. 🌆🔇🐦🔔
+
+12560		earthquake	tirumala	Without warning, the ground began to shake. It was an earthquake, but unlike any they had experienced before. Buildings trembled, people screamed, and the sacred temple seemed to sway on its ancient foundations. 🏚️🙀🏯🕍
+
+
+13456		laddu		tirumala	Just as suddenly as it had started, the earthquake stopped. The city was in ruins, but amidst the chaos, a strange sight met the eyes of the survivors. Where the famous temple once stood, there was now a gigantic… laddu. Yes, a laddu, the sweet delicacy offered at the temple, but this one was the size of a building. 🏚️😲🏯🍬
+
+
+14567		sweet		Tirupati Urban	The people of Tirupati Urban were in shock. Their beloved temple was gone, replaced by a giant sweet. It was a disaster, but a strangely sweet one. The city would rebuild, but they would never forget the day when their city was struck by a ‘sweet’ disaster.😱🏯🍬
+
+
+

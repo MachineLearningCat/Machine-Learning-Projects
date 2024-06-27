@@ -1,0 +1,23 @@
+A Deep Attentive Multimodal Learning Approach for Disaster Identification From Social Media Posts
+
+IEEE Access and Machine Learning,Volume:10,Issue Date:28.April.2022 
+
+Natural disasters, Multimodal deep learning, Social Media, Twitter, Natural language
+processing, Attention Mechanism
+
+
+ADeep_Attentive_Multimodal_Learning_Approach
+
+
+adeep_attentive_multimodal_learning_aApproach
+
+
+
+disaster_identification_type
+
+
+idnumber
+keyword
+location
+tweet_text
+Prediction
